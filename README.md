@@ -1,0 +1,5 @@
+- 👋 Olá,meu nome Lelelinda007
+- 👀 Meu email de contato é leticia.kadanus@escola.pr.gov.br 
+- 🌱 Estou interessada em fazer cursos e aprender a programar
+- 💞️ Estou aprendendo a programar e fazer jogos pelo Javascript 
+- 📫 Me chame pelo email caso se interesse 
